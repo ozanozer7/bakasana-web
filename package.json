@@ -1,0 +1,11 @@
+{
+  "name": "bakasana-katalog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "seed": "node src/gen-seed.mjs",
+    "preview": "PREVIEW=1 OUT_DIR=preview node src/build.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

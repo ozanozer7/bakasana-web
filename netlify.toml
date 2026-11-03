@@ -1,0 +1,26 @@
+# Netlify her yayında bu komutu çalıştırır; veriyi Supabase'den çekip siteyi üretir.
+[build]
+  command = "node src/build.mjs"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+  # Supabase bağlantısı. Bu anahtar ziyaretçinin tarayıcısına zaten gönderilir; güvenlik
+  # kuralları onunla yalnızca ürün okumaya ve tıklama eklemeye izin verir. Gizli değildir.
+  # (service_role anahtarını ASLA buraya yazmayın.)
+  SUPABASE_URL = "https://cnvhgpxkghncvbupjaoj.supabase.co"
+  SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNudmhncHhrZ2huY3ZidXBqYW9qIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTMyNjkzMjAsImV4cCI6MjEwODg0NTMyMH0.3__EkeZdLddPqpnEcHj9aqYshvqXRRGDMeRU7YYA_wY"
+  # Fotoğrafları Trendyol sunucusundan indirip kendi alan adınızdan sunar (Google Görseller için önemli)
+  MIRROR_IMAGES = "1"
+
+# Eski ve yeni adres biçimleri aynı sayfaya gitsin
+[[redirects]]
+  from = "/urun/:slug"
+  to = "/urun/:slug/"
+  status = 301
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"

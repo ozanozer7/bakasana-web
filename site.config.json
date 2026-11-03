@@ -1,0 +1,12 @@
+{
+  "siteUrl": "https://www.bakasana.com.tr",
+  "name": "Bakasana",
+  "tagline": "El yapımı ahşap ev ve mutfak ürünleri",
+  "description": "Bakasana; masif ahşaptan elde yapılan kağıt havluluk, baharatlık, damacana standı ve ev düzeni ürünleri üretir. Ürünlerimizi Trendyol, Hepsiburada ve Amazon’dan satın alabilirsiniz.",
+  "email": "bakasanatr@gmail.com",
+  "stores": {
+    "trendyol": { "label": "Trendyol", "url": "https://www.trendyol.com/magaza/bakasana-m-1150315?sst=0" },
+    "hepsiburada": { "label": "Hepsiburada", "url": "https://www.hepsiburada.com/bakasana", "note": "Satıcı puanı 9,7" },
+    "amazon": { "label": "Amazon", "url": "https://www.amazon.com.tr/s?me=A2R4PXNBSK04OY&marketplaceID=A33AVAJ2PDY3EV" }
+  }
+}

@@ -1,0 +1,1020 @@
+{
+  "categories": [
+    {
+      "id": "mutfak",
+      "name": "Mutfak",
+      "description": "Masif ahşaptan el yapımı kağıt havluluk, baharatlık ve tezgah düzenleyiciler.",
+      "sort": 1
+    },
+    {
+      "id": "tasima-standlari",
+      "name": "Damacana ve saksı standları",
+      "description": "Damacana, su sebili, saksı ve tüp için tekerlekli doğal ahşap taşıma standları.",
+      "sort": 2
+    },
+    {
+      "id": "askilar",
+      "name": "Askılar",
+      "description": "Kaymaz kadife elbise askıları, çocuk askıları ve metal mandallı askılar.",
+      "sort": 3
+    },
+    {
+      "id": "aydinlatma",
+      "name": "Aydınlatma",
+      "description": "El yapımı rustik ahşap avizeler.",
+      "sort": 4
+    },
+    {
+      "id": "ev-duzeni",
+      "name": "Ev düzeni",
+      "description": "Çorap sepeti ve ev içi düzenleyiciler.",
+      "sort": 5
+    },
+    {
+      "id": "calisma-alani",
+      "name": "Çalışma alanı",
+      "description": "Masa başında daha rahat oturmak için ergonomik ürünler.",
+      "sort": 6
+    },
+    {
+      "id": "spor",
+      "name": "Spor",
+      "description": "Doğal ahşaptan el yapımı spor ekipmanları.",
+      "sort": 7
+    },
+    {
+      "id": "giyim-aksesuar",
+      "name": "Çorap ve aksesuar",
+      "description": "Kolej çorapları ve küçük aksesuarlar.",
+      "sort": 8
+    },
+    {
+      "id": "hobi",
+      "name": "Hobi ve el aletleri",
+      "description": "Ahşap işleri için sarf malzemeleri.",
+      "sort": 9
+    }
+  ],
+  "products": [
+    {
+      "slug": "el-yapimi-masif-ahsap-kagit-havluluk",
+      "barcode": "BKSNHVL10001",
+      "name": "El Yapımı Masif Ahşap Kağıt Havluluk – Mutfak Tezgahı Rulo Havlu Tutacağı",
+      "brand": "Bakasana",
+      "category_id": "mutfak",
+      "description": "Mutfakta estetik ve işlevi bir araya getiren bu el yapımı masif ahşap kağıt havluluk, doğal görünümüyle tezgahınıza sıcak bir dokunuş katar. Tamamen el işçiliğiyle, kaliteli masif ağaçtan üretilir.\n\nSağlam tabanı sayesinde devrilmeden durur ve rulo havluyu kolayca koparmanızı sağlar. Her parça, ahşabın doğal desenlerini koruyacak şekilde özenle zımparalanır ve koruyucu doğal yağ ile cilalanır; bu sayede uzun ömürlü ve hijyenik bir kullanım sunar.\n\nMutfak tezgahında kağıt havlu tutucu, banyoda dekoratif havlu standı olarak kullanabilirsiniz. Her biri el emeğiyle üretildiği için desenlerde küçük farklılıklar olabilir; bu da her ürünü kendine özgü kılar.",
+      "features": [
+        "%100 masif ahşap",
+        "El yapımı, doğal yağ ile cilalı",
+        "Kaymaz, dengeli taban",
+        "Mutfak, banyo ve ofis için"
+      ],
+      "price": 199,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1786/prod/QC_PREP/20251111/10/780e3a7f-586e-305f-8e1a-d41f1d95ccd5/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1786/prod/QC_PREP/20251111/10/780e3a7f-586e-305f-8e1a-d41f1d95ccd5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251111/10/0ed7b13a-a3a9-30d6-a0e3-7cf7bb9fbbd0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1785/prod/QC_PREP/20251111/10/1e3ce374-8b72-3bed-b72d-9155d8ce3fe2/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1787/prod/QC_PREP/20251111/10/f8e7142a-9791-376a-bbfa-b82b710ee536/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/el-yapimi-masif-ahsap-kagit-havluluk-mutfak-tezgahi-rulo-havlu-tutacagi-p-1047577100",
+      "hepsiburada_url": "https://www.hepsiburada.com/el-yapimi-masif-ahsap-kagit-havluluk-mutfak-tezgahi-rulo-havlu-tutacagi-pm-HBC0000ECNU0U?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 1,
+      "is_active": true
+    },
+    {
+      "slug": "el-yapimi-masif-ahsap-kagit-havluluk-sekizgen-taban",
+      "barcode": "BKSNHVL10002",
+      "name": "El Yapımı Masif Ahşap Kağıt Havluluk – Sekizgen Taban",
+      "brand": "Bakasana",
+      "category_id": "mutfak",
+      "description": "Mutfakta estetik ve işlevi bir araya getiren bu el yapımı masif ahşap kağıt havluluk, doğal görünümüyle tezgahınıza sıcak bir dokunuş katar. Tamamen el işçiliğiyle, kaliteli masif ağaçtan üretilir.\n\nSekizgen tabanı hem şık görünür hem de sayesinde devrilmeden durur ve rulo havluyu kolayca koparmanızı sağlar. Her parça, ahşabın doğal desenlerini koruyacak şekilde özenle zımparalanır ve koruyucu doğal yağ ile cilalanır; bu sayede uzun ömürlü ve hijyenik bir kullanım sunar.\n\nMutfak tezgahında kağıt havlu tutucu, banyoda dekoratif havlu standı olarak kullanabilirsiniz. Her biri el emeğiyle üretildiği için desenlerde küçük farklılıklar olabilir; bu da her ürünü kendine özgü kılar.",
+      "features": [
+        "%100 masif ahşap",
+        "El yapımı, doğal yağ ile cilalı",
+        "Sekizgen, kaymaz taban",
+        "Mutfak, banyo ve ofis için"
+      ],
+      "price": 199,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1786/prod/QC_PREP/20251111/16/229ac107-659d-3589-85bb-eb25c591f742/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1786/prod/QC_PREP/20251111/16/229ac107-659d-3589-85bb-eb25c591f742/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1787/prod/QC_PREP/20251111/16/413202b2-0a84-3611-95a1-89cd1e516349/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1787/prod/QC_PREP/20251111/16/eb8136c1-56c4-3940-b452-a682e6f7bb05/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1787/prod/QC_PREP/20251111/16/e5e583c5-a229-3786-973a-924ecc05a999/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/el-yapimi-masif-ahsap-kagit-havluluk-mutfak-tezgahi-rulo-havlu-tutacagi-sekizgen-taban-p-1047759364",
+      "hepsiburada_url": "https://www.hepsiburada.com/el-yapimi-masif-ahsap-kagit-havluluk-mutfak-tezgahi-rulo-havlu-tutacagi-sekizgen-taban-pm-HBC0000CBHAVU?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": 5,
+      "rating_count": 3,
+      "rating_source": "Hepsiburada",
+      "sort": 2,
+      "is_active": true
+    },
+    {
+      "slug": "el-yapimi-masif-ahsap-kagit-havluluk-yuvarlak-taban",
+      "barcode": "BKSNHVL10003",
+      "name": "El Yapımı Masif Ahşap Kağıt Havluluk – Yuvarlak Taban",
+      "brand": "Bakasana",
+      "category_id": "mutfak",
+      "description": "Mutfakta estetik ve işlevi bir araya getiren bu el yapımı masif ahşap kağıt havluluk, doğal görünümüyle tezgahınıza sıcak bir dokunuş katar. Tamamen el işçiliğiyle, kaliteli masif ağaçtan üretilir.\n\nYuvarlak tabanı yumuşak hatlarıyla tezgaha yakışır ve sayesinde devrilmeden durur ve rulo havluyu kolayca koparmanızı sağlar. Her parça, ahşabın doğal desenlerini koruyacak şekilde özenle zımparalanır ve koruyucu doğal yağ ile cilalanır; bu sayede uzun ömürlü ve hijyenik bir kullanım sunar.\n\nMutfak tezgahında kağıt havlu tutucu, banyoda dekoratif havlu standı olarak kullanabilirsiniz. Her biri el emeğiyle üretildiği için desenlerde küçük farklılıklar olabilir; bu da her ürünü kendine özgü kılar.",
+      "features": [
+        "%100 masif ahşap",
+        "El yapımı, doğal yağ ile cilalı",
+        "Yuvarlak, kaymaz taban",
+        "Mutfak, banyo ve ofis için"
+      ],
+      "price": 199,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1822/prod/QC_PREP/20260210/16/13c94ce6-4381-39be-a0c0-370184793386/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1822/prod/QC_PREP/20260210/16/13c94ce6-4381-39be-a0c0-370184793386/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1823/prod/QC_PREP/20260210/16/5f356cd5-ef31-3326-86c4-183df93a4910/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1821/prod/QC_PREP/20260210/16/2cec3014-64fe-33be-97f4-fffea5d656d1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1823/prod/QC_PREP/20260210/16/eb8328cd-0575-304f-90ae-c369e67f4e8c/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/el-yapimi-masif-ahsap-kagit-havluluk-mutfak-tezgahi-rulo-havlu-tutacagi-yuvarlak-taban-p-1100314475",
+      "hepsiburada_url": "https://www.hepsiburada.com/el-yapimi-masif-ahsap-kagit-havluluk-mutfak-tezgahi-rulo-havlu-tutacagi-yuvarlak-taban-pm-HBC0000ECOBM6?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 3,
+      "is_active": true
+    },
+    {
+      "slug": "el-yapimi-masif-ahsap-kagit-havluluk-sekizgen-taban-model-2",
+      "barcode": "BKSNHVL10004",
+      "name": "El Yapımı Masif Ahşap Kağıt Havluluk – Sekizgen Taban (Model 2)",
+      "brand": "Bakasana",
+      "category_id": "mutfak",
+      "description": "Mutfakta estetik ve işlevi bir araya getiren bu el yapımı masif ahşap kağıt havluluk, doğal görünümüyle tezgahınıza sıcak bir dokunuş katar. Tamamen el işçiliğiyle, kaliteli masif ağaçtan üretilir.\n\nSekizgen tabanı hem şık görünür hem de sayesinde devrilmeden durur ve rulo havluyu kolayca koparmanızı sağlar. Her parça, ahşabın doğal desenlerini koruyacak şekilde özenle zımparalanır ve koruyucu doğal yağ ile cilalanır; bu sayede uzun ömürlü ve hijyenik bir kullanım sunar.\n\nMutfak tezgahında kağıt havlu tutucu, banyoda dekoratif havlu standı olarak kullanabilirsiniz. Her biri el emeğiyle üretildiği için desenlerde küçük farklılıklar olabilir; bu da her ürünü kendine özgü kılar.",
+      "features": [
+        "%100 masif ahşap",
+        "El yapımı, doğal yağ ile cilalı",
+        "Sekizgen, kaymaz taban",
+        "Mutfak, banyo ve ofis için"
+      ],
+      "price": 199,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1822/prod/QC_PREP/20260210/16/cdc00b7f-11ac-37fd-a749-5ccbbac5606a/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1822/prod/QC_PREP/20260210/16/cdc00b7f-11ac-37fd-a749-5ccbbac5606a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1821/prod/QC_PREP/20260210/16/877ae0df-9ac4-3e00-981a-ef3e4aab91bc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1823/prod/QC_PREP/20260210/16/6cdac840-abe9-3c54-92b3-cdffb611739a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1822/prod/QC_PREP/20260210/16/526506b4-14ef-31e3-888b-199bd96e9532/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/el-yapimi-masif-ahsap-kagit-havluluk-mutfak-tezgahi-rulo-havlu-tutacagi-sekizgen-taban-p-1100343908",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 4,
+      "is_active": true
+    },
+    {
+      "slug": "dogal-ahsap-kagit-havluluk-ve-baharatlik-rafi",
+      "barcode": "BKSNHVL10005",
+      "name": "Doğal Ahşap Tezgah Üstü Kağıt Havluluk ve Baharatlık – Mutfak Düzenleyici Raf",
+      "brand": "Bakasana",
+      "category_id": "mutfak",
+      "description": "Kağıt havlu tutacağı ile baharat rafını tek parçada birleştiren tezgah üstü düzenleyici. Rulo havlu ve sık kullandığınız baharatlar aynı yerde, elinizin altında durur; tezgahta iki ayrı ürün için yer ayırmanız gerekmez.\n\nDoğal ahşaptan yapılmıştır ve mutfağa sıcak bir görünüm katar.",
+      "features": [
+        "Doğal ahşap",
+        "Kağıt havluluk ve baharat rafı bir arada",
+        "Tezgah üstü kullanım"
+      ],
+      "price": 599,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1984/prod/QC_PREP/20261019/19/c24235a6-f3de-382a-8826-778b8829d176/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1984/prod/QC_PREP/20261019/19/c24235a6-f3de-382a-8826-778b8829d176/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1985/prod/QC_PREP/20261019/19/eff7f74d-9334-38fc-834a-22e128a31109/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1985/prod/QC_PREP/20261019/19/1a2fd441-989e-3f1a-9e2f-62f30ef99aee/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/dogal-ahsap-tezgah-ustu-kagit-havluluk-ve-baharatlik-mutfak-duzenleyici-raf-p-1219084738",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 5,
+      "is_active": true
+    },
+    {
+      "slug": "el-yapimi-ahsap-baharatlik-standi-8-cam-kavanoz",
+      "barcode": "BKSNSTND0002",
+      "name": "El Yapımı Ahşap Baharatlık Standı ve 8 Adet Cam Kavanoz Seti – Tezgah Üstü Mutfak Rafı",
+      "brand": "Bakasana",
+      "category_id": "mutfak",
+      "description": "El yapımı ahşap stant ve 8 cam kavanozdan oluşan tezgah üstü baharatlık seti. Cam kavanozlar sayesinde hangi baharatın ne kadar kaldığını tek bakışta görürsünüz; stant da hepsini tezgahta derli toplu tutar.",
+      "features": [
+        "El yapımı ahşap stant",
+        "8 adet cam kavanoz",
+        "Tezgah üstü raf"
+      ],
+      "price": 1099,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1932/prod/QC_PREP/20260522/14/8dc274ce-e0a1-3f44-8114-2fdeca917e28/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1932/prod/QC_PREP/20260522/14/8dc274ce-e0a1-3f44-8114-2fdeca917e28/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1911/prod/QC_PREP/20260522/14/f2e9d5b2-3bd6-3dfa-b764-d264574a8dc5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1916/prod/QC_PREP/20260522/14/06323f48-358d-3e02-9ebb-266422a3a5e6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1905/prod/QC_PREP/20260522/14/31684a70-4832-34a5-8aeb-00a2dcd61183/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1914/prod/QC_PREP/20260522/14/7909a235-b4cc-3ca5-a3f0-b559a484259c/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/el-yapimi-ahsap-baharatlik-standi-ve-8-adet-cam-kavanoz-seti-tezgah-ustu-mutfak-rafi-p-1148821540",
+      "hepsiburada_url": "https://www.hepsiburada.com/el-yapimi-ahsap-baharatlik-standi-ve-8-adet-cam-kavanoz-seti-tezgah-ustu-mutfak-rafi-pm-HBC0000EZWLU0?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 6,
+      "is_active": true
+    },
+    {
+      "slug": "dogal-ahsap-tekerlekli-damacana-saksi-tup-standi",
+      "barcode": "BKSNSTND0001",
+      "name": "Doğal Ahşap Tekerlekli Damacana, Saksı ve Tüp Altlığı – Çok Amaçlı Taşıma Standı",
+      "brand": "Bakasana",
+      "category_id": "tasima-standlari",
+      "description": "Bakasana’nın doğal ahşaptan ürettiği bu çok amaçlı taşıma standı; damacana, su sebili, büyük saksı ve tüp altlığı olarak kullanılır. Tekerlekleri sayesinde ağır yükü kaldırmadan, iterek istediğiniz yere taşırsınız.\n\nKare formu dengeli ve sağlam bir duruş sağlar. Zemin ile eşyanız arasında boşluk bırakarak hava dolaşımına yardımcı olur, zemini de çizilmeye karşı korur.\n\nAhşabın doğal dokusu rustik, modern ya da minimalist her dekorla uyum sağlar. Mutfak, balkon, oturma odası ve bahçede kullanabilirsiniz.",
+      "features": [
+        "Doğal ahşap, kare form",
+        "Tekerlekli, kolay taşıma",
+        "Damacana, saksı ve tüp için"
+      ],
+      "price": 599,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1935/prod/QC_PREP/20260503/19/6d2e4ccf-55e3-38f9-ab30-8038109474c5/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1935/prod/QC_PREP/20260503/19/6d2e4ccf-55e3-38f9-ab30-8038109474c5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1921/prod/QC_PREP/20260503/19/e3b638fd-46b8-3f2f-8ee4-a57f07babce9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1891/prod/QC_PREP/20260503/19/a4ebf633-17ac-3e5b-87d2-dfe05b142414/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1905/prod/QC_PREP/20260503/19/ac23ccf0-c9aa-371f-bd43-d093bdb9f1e5/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/dogal-ahsap-tekerlekli-damacana-saksi-ve-tup-altligi-cok-amacli-dekoratif-tasima-standi-p-1141623312",
+      "hepsiburada_url": "https://www.hepsiburada.com/dogal-ahsap-tekerlekli-damacana-saksi-ve-tup-altligi-cok-amacli-dekoratif-tasima-standi-pm-HBC0000EPZEL1?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": 4.5,
+      "rating_count": 18,
+      "rating_source": "Hepsiburada",
+      "sort": 7,
+      "is_active": true
+    },
+    {
+      "slug": "ahsap-damacana-tasiyici-360-doner-tekerlekli",
+      "barcode": "TYBE4QNGLQ9VAXA450",
+      "name": "Ahşap Damacana Taşıyıcı – 360° Döner Tekerlekli Su Sebili ve Saksı Altlığı",
+      "brand": "Bakasana",
+      "category_id": "tasima-standlari",
+      "description": "Bakasana’nın doğal ahşaptan ürettiği bu çok amaçlı taşıma standı; damacana, su sebili, büyük saksı ve tüp altlığı olarak kullanılır. 360 derece dönen tekerlekleri sayesinde ağır yükü kaldırmadan, iterek istediğiniz yere taşırsınız.\n\nKare formu dengeli ve sağlam bir duruş sağlar. Zemin ile eşyanız arasında boşluk bırakarak hava dolaşımına yardımcı olur, zemini de çizilmeye karşı korur.\n\nAhşabın doğal dokusu rustik, modern ya da minimalist her dekorla uyum sağlar. Mutfak, balkon, oturma odası ve bahçede kullanabilirsiniz.\n\n7 cm yüksekliğiyle zemin ile eşyanız arasında ideal bir mesafe bırakır.",
+      "features": [
+        "Doğal ahşap, kare form",
+        "360° döner tekerlekler",
+        "7 cm yükseklik",
+        "Damacana, su sebili, saksı ve tüp için"
+      ],
+      "price": 549,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1905/prod/QC_PREP/20260815/08/ace36e87-6107-35c8-bdb4-f74ce13b220f/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1905/prod/QC_PREP/20260815/08/ace36e87-6107-35c8-bdb4-f74ce13b220f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1893/prod/QC_PREP/20260815/08/37871c88-f6ad-3400-9f0d-76ac7fd3eda3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1902/prod/QC_PREP/20260815/08/c7d42e6c-9ca0-39b4-9120-d910709757ad/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1917/prod/QC_PREP/20260815/08/747c9150-2277-3923-a090-cebc55e622b6/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/ahsap-damacana-tasiyici-360-doner-tekerlekli-dogal-ahsap-kolay-hareket-damacana-su-sebil-altligi-saksi-altiligi-p-1185872258",
+      "hepsiburada_url": null,
+      "amazon_url": "https://www.amazon.com.tr/dp/B0GZF9GL87",
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 8,
+      "is_active": true
+    },
+    {
+      "slug": "kilitli-tekerlekli-ahsap-damacana-saksi-tup-standi",
+      "barcode": "BKSNSTND0003",
+      "name": "Kilitli Tekerlekli Doğal Ahşap Damacana, Saksı ve Tüp Altlığı – Çok Amaçlı Taşıma Standı",
+      "brand": "Bakasana",
+      "category_id": "tasima-standlari",
+      "description": "Bakasana’nın doğal ahşaptan ürettiği bu çok amaçlı taşıma standı; damacana, su sebili, büyük saksı ve tüp altlığı olarak kullanılır. Tekerlekleri sayesinde ağır yükü kaldırmadan iterek taşırsınız; yerine koyduğunuzda tekerlekleri kilitleyip standı sabitlersiniz.\n\nKare formu dengeli ve sağlam bir duruş sağlar. Zemin ile eşyanız arasında boşluk bırakarak hava dolaşımına yardımcı olur, zemini de çizilmeye karşı korur.\n\nAhşabın doğal dokusu rustik, modern ya da minimalist her dekorla uyum sağlar. Mutfak, balkon, oturma odası ve bahçede kullanabilirsiniz.",
+      "features": [
+        "Doğal ahşap, kare form",
+        "Kilitlenebilir tekerlekler",
+        "Damacana, saksı ve tüp için"
+      ],
+      "price": 669,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1964/prod/QC_PREP/20260925/12/dbafaa91-1637-3aa8-99a2-3658a9daad02/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1964/prod/QC_PREP/20260925/12/dbafaa91-1637-3aa8-99a2-3658a9daad02/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1962/prod/QC_PREP/20260925/12/48cd2d34-7abb-3b7e-986c-421f3cdeb56f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1963/prod/QC_PREP/20260925/12/ae646b29-35cb-3ff3-8ab0-ab8fcf3462de/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/killitli-tekerlekli-dogal-ahsap-damacana-saksi-ve-tup-altligi-cok-amacli-dekoratif-tasima-standi-p-1204703591",
+      "hepsiburada_url": "https://www.hepsiburada.com/bksnstnd0002-pm-HBC0000JX0Z4L?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 9,
+      "is_active": true
+    },
+    {
+      "slug": "10lu-kadife-elbise-askisi-gri",
+      "barcode": "BKSNASK20010",
+      "name": "10 Adet Kadife Takım Elbise Askısı – Kaymaz Yüzey, 360° Dönen Kanca, Gri",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Kadife kaplı yüzeyi sürtünmeyi artırır; gömlek, bluz ve ipek gibi kaygan kumaşlar bile askıdan kaymaz. 360 derece dönen kancası askıyı dolaba her yönden asmanızı kolaylaştırır.\n\nİnce gövdesi sayesinde aynı dolaba daha fazla giysi sığar. Tüm askılar aynı boyda ve renkte olduğu için dolabınız düzenli ve bütünlüklü görünür.",
+      "features": [
+        "10 adet askı",
+        "Renk: Gri",
+        "Kaymaz kadife yüzey",
+        "360° dönen kanca",
+        "İnce, yer kazandıran gövde"
+      ],
+      "price": 799,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/cb3c8ec9-0e39-3589-a062-5c705433d13f/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/cb3c8ec9-0e39-3589-a062-5c705433d13f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/84fe558d-75ea-39a3-9985-90b5846464a0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/2a3b7f24-7088-3744-a882-33836105dd83/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1954/prod/QC_PREP/20260907/15/92352588-2c4c-341e-b73c-c28ec7e98760/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1955/prod/QC_PREP/20260907/15/01e21152-d6ef-309a-b666-820b972f7e72/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1954/prod/QC_PREP/20260907/15/e5cdf659-4c0a-32d0-b61b-e3bacd8adfa3/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/10-lu-paket-kadife-aski-takim-elbise-askisi-kaymaz-yuzeyli-360-derece-donen-kanca-kaymaz-p-1196871524",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 10,
+      "is_active": true
+    },
+    {
+      "slug": "10lu-kadife-elbise-askisi-siyah",
+      "barcode": "BKSNASK20007",
+      "name": "10 Adet Kadife Takım Elbise Askısı – Kaymaz Yüzey, 360° Dönen Kanca, Siyah",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Kadife kaplı yüzeyi sürtünmeyi artırır; gömlek, bluz ve ipek gibi kaygan kumaşlar bile askıdan kaymaz. 360 derece dönen kancası askıyı dolaba her yönden asmanızı kolaylaştırır.\n\nİnce gövdesi sayesinde aynı dolaba daha fazla giysi sığar. Tüm askılar aynı boyda ve renkte olduğu için dolabınız düzenli ve bütünlüklü görünür.",
+      "features": [
+        "10 adet askı",
+        "Renk: Siyah",
+        "Kaymaz kadife yüzey",
+        "360° dönen kanca",
+        "İnce, yer kazandıran gövde"
+      ],
+      "price": 819,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/6e9dd5b6-3e55-3d5e-ae08-4178699d79b5/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/6e9dd5b6-3e55-3d5e-ae08-4178699d79b5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1955/prod/QC_PREP/20260907/15/db54aa4d-3fd7-3ee4-805b-7047970a4e97/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1955/prod/QC_PREP/20260907/15/5ab4128e-e616-3fb3-9d41-3dbbfd587c8f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1954/prod/QC_PREP/20260907/15/e203c5c1-9160-36ff-9ff2-2b4b1eebb474/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/10-lu-paket-kadife-aski-takim-elbise-askisi-kaymaz-yuzeyli-360-derece-donen-kanca-kaymaz-siyah-p-1196841847",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 11,
+      "is_active": true
+    },
+    {
+      "slug": "20li-kadife-elbise-askisi-kaymaz-donen-kanca",
+      "barcode": "BKSNASK20000",
+      "name": "20 Adet Kadife Takım Elbise Askısı – Kaymaz Yüzey, 360° Dönen Kanca",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Kadife kaplı yüzeyi sürtünmeyi artırır; gömlek, bluz ve ipek gibi kaygan kumaşlar bile askıdan kaymaz. 360 derece dönen kancası askıyı dolaba her yönden asmanızı kolaylaştırır.\n\nİnce gövdesi sayesinde aynı dolaba daha fazla giysi sığar. Tüm askılar aynı boyda ve renkte olduğu için dolabınız düzenli ve bütünlüklü görünür.",
+      "features": [
+        "20 adet askı",
+        "Kaymaz kadife yüzey",
+        "360° dönen kanca",
+        "İnce, yer kazandıran gövde"
+      ],
+      "price": 1299,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/68bd959a-7025-3a72-8038-bd7b70c3bdb9/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/68bd959a-7025-3a72-8038-bd7b70c3bdb9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/db5dce04-6408-32fd-a4a4-effa29b23ebe/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/4447b591-5ba0-3277-9fe0-495aaaf41dff/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251112/11/eddf4b87-b0e9-3b2c-bd9c-b3d93fde0d42/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251112/11/bba162fa-9fe8-33ed-b43d-189fb0faf910/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251112/11/d51d4bcb-8fcf-3f09-b0a6-3a0d5dc5ca46/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/20-li-paket-kadife-aski-takim-elbise-askisi-kaymaz-yuzeyli-360-derece-donen-kanca-kaymaz-p-1048391506",
+      "hepsiburada_url": "https://www.hepsiburada.com/bakasana-20-li-paket-kadife-aski-takim-elbise-askisi-kaymaz-yuzeyli-360-derece-donen-kanca-kaymaz-p-HBCV0000JEHB3C?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 12,
+      "is_active": true
+    },
+    {
+      "slug": "20li-kadife-pembe-altin-elbise-askisi-seti",
+      "barcode": "BKSNASK20004",
+      "name": "20 Adet Kadife Pembe-Altın Elbise Askısı Seti – Kaymaz, Döner Kanca, Yer Tasarruflu",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Açık pembe kadife askılar ve parlak pembe-altın kancalardan oluşan 20’li set; yetişkin, çocuk ve bebek giysileri için uygundur.\n\nKadife yüzey ve omuzdaki girintiler giysilerin kaymasını önler; ipek bluzlar bile askıda sağlam durur. Sağlam ABS plastikten yapılan askılar ince olmasına rağmen dayanıklıdır; askı başına en fazla 5 kg taşıyabildiği için kışlık montları da rahatça asabilirsiniz.\n\nİnce gövdesi dolapta yer kazandırır. Ortadaki küçük çubuk eşarp ve kravat asmak için idealdir. 360 derece dönen pembe-altın kancalar dolabınıza biraz da ışıltı katar.",
+      "features": [
+        "20 adet askı",
+        "Pembe kadife, pembe-altın kanca",
+        "Askı başına en fazla 5 kg",
+        "Eşarp ve kravat çubuğu"
+      ],
+      "price": 1749,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1989/prod/QC_ENRICHMENT/20261024/11/bafad7aa-c3bb-322e-a957-a36e050ebc10/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1989/prod/QC_ENRICHMENT/20261024/11/bafad7aa-c3bb-322e-a957-a36e050ebc10/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1990/prod/QC_ENRICHMENT/20261024/11/d95efd7a-012f-379a-8338-dbd865ce7198/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1990/prod/QC_ENRICHMENT/20261024/11/fee47f9d-d8c3-3a27-951d-d0cd5f842a2c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1990/prod/QC_ENRICHMENT/20261024/11/77ae1a47-1639-3eb0-9e03-dccfaa26797a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1989/prod/QC_ENRICHMENT/20261024/11/c2f10cfc-2a0c-345a-bb22-605e287c8fe9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1990/prod/QC_ENRICHMENT/20261024/11/165b4586-ab8e-3992-8d9a-894b6b6800a7/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1991/prod/QC_ENRICHMENT/20261024/11/72fbf4d6-dd46-3dcd-89ee-ee40df95ed30/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/20-li-kadife-pembe-altin-elbise-askisi-seti-kaymaz-doner-kanca-yer-tasarruflu-p-1074361930",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 13,
+      "is_active": true
+    },
+    {
+      "slug": "30lu-kadife-elbise-askisi",
+      "barcode": "BKSNASK20001",
+      "name": "30 Adet Kadife Takım Elbise Askısı – Kaymaz Yüzey, 360° Dönen Kanca",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Kadife kaplı yüzeyi sürtünmeyi artırır; gömlek, bluz ve ipek gibi kaygan kumaşlar bile askıdan kaymaz. 360 derece dönen kancası askıyı dolaba her yönden asmanızı kolaylaştırır.\n\nİnce gövdesi sayesinde aynı dolaba daha fazla giysi sığar. Tüm askılar aynı boyda ve renkte olduğu için dolabınız düzenli ve bütünlüklü görünür.",
+      "features": [
+        "30 adet askı",
+        "Kaymaz kadife yüzey",
+        "360° dönen kanca",
+        "İnce, yer kazandıran gövde"
+      ],
+      "price": 1899,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/3aca34c4-b775-3075-ace1-bb555aef9c1c/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/3aca34c4-b775-3075-ace1-bb555aef9c1c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/8511fad8-52e7-33a8-a655-e8f80adf53bf/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/4ebcf4e8-fa60-3a82-a624-d3189d78bf9e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/b0e98f97-ad3e-3b9f-84ba-baa277c0f86a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/5526ad34-e4ef-3ca8-ac35-44efd7fce4d3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251112/11/5a6de38f-8080-3a70-8a88-d4fce915aa06/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/30-lu-paket-kadife-aski-takim-elbise-askisi-kaymaz-yuzeyli-360-derece-donen-kanca-kaymaz-p-1048393131",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 14,
+      "is_active": true
+    },
+    {
+      "slug": "6li-cocuk-bebek-elbise-askisi-omuz-etek-kancali",
+      "barcode": "BKSNASK20006",
+      "name": "6’lı Set Çok Amaçlı Çocuk ve Bebek Elbise Askısı – Omuz ve Etek Kancalı",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Çocuk ve bebek giysileri için küçük boy askı seti. Omuz kısmı üst giysiler için, etek kancaları ise etek ve şortlar için kullanılır; böylece tek askıyla takım asabilirsiniz. Çocuk dolabını düzenli tutmanın pratik bir yolu.",
+      "features": [
+        "6 adet askı",
+        "Çocuk ve bebek boyu",
+        "Omuz ve etek kancalı"
+      ],
+      "price": 199,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1898/prod/QC_PREP/20260817/17/4b8591a1-eab8-36e9-8fdf-72b34ce8818f/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1898/prod/QC_PREP/20260817/17/4b8591a1-eab8-36e9-8fdf-72b34ce8818f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1898/prod/QC_PREP/20260817/17/7f97d840-2c92-324b-9257-93a56e86f5a9/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1901/prod/QC_PREP/20260817/17/2bda9823-da0e-3b39-8fb8-57f8f51259a6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1893/prod/QC_PREP/20260817/17/a5bc6ded-3dda-3880-8487-445e7459cb84/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/6-li-set-cok-amacli-cocuk-ve-bebek-elbise-askisi-omuz-ve-etek-kancali-dolap-duzenleyici-p-1186865888",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 15,
+      "is_active": true
+    },
+    {
+      "slug": "5li-metal-mandalli-etek-pantolon-askisi",
+      "barcode": "BKSNASK20005",
+      "name": "5 Adet Metal Etek ve Pantolon Askısı – Ekstra Geniş Mandallı Krom Askı Seti (40 x 10,5 cm)",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Etek ve pantolonları katlamadan, iz bırakmadan asmak için ekstra geniş mandallı, krom kaplı metal askı seti. Her askı 40 x 10,5 cm ölçüsündedir.",
+      "features": [
+        "5 adet askı",
+        "Ekstra geniş mandal",
+        "Krom kaplama",
+        "40 x 10,5 cm"
+      ],
+      "price": 599,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1934/prod/QC_PREP/20260610/15/a620b457-085f-33d5-ab4c-c2d4241fd003/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1934/prod/QC_PREP/20260610/15/a620b457-085f-33d5-ab4c-c2d4241fd003/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1897/prod/QC_PREP/20260610/15/47bb9d00-ccfe-3e42-b6e5-5c95ea36792e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1935/prod/QC_PREP/20260610/15/38ce430d-0190-3bf1-b201-4664e9031ad6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1930/prod/QC_PREP/20260610/15/9b42ec76-7187-305b-a384-44ad6e8533d3/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1908/prod/QC_PREP/20260610/15/30460688-9b82-3916-a9ae-d0752fe0cc6e/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1911/prod/QC_PREP/20260610/15/254e7386-9b19-3579-83fe-b54d0f37b0ac/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/5-adet-metal-etek-askisi-pantolon-askisi-ekstra-genis-mandalli-krom-aski-seti-40-x-10-5-cm-p-1155027579",
+      "hepsiburada_url": "https://www.hepsiburada.com/5-adet-metal-kiyafet-etek-ve-pantolon-askisi-ekstra-genis-mandalli-krom-aski-seti-40-x-10-5-cm-pm-HBC0000FG5TMJ?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 16,
+      "is_active": true
+    },
+    {
+      "slug": "10lu-kadife-elbise-askisi-pembe",
+      "barcode": "BKSNASK20008",
+      "name": "10 Adet Kadife Takım Elbise Askısı – Kaymaz Yüzey, 360° Dönen Kanca, Pembe",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Kadife kaplı yüzeyi sürtünmeyi artırır; gömlek, bluz ve ipek gibi kaygan kumaşlar bile askıdan kaymaz. 360 derece dönen kancası askıyı dolaba her yönden asmanızı kolaylaştırır.\n\nİnce gövdesi sayesinde aynı dolaba daha fazla giysi sığar. Tüm askılar aynı boyda ve renkte olduğu için dolabınız düzenli ve bütünlüklü görünür.",
+      "features": [
+        "10 adet askı",
+        "Renk: Pembe",
+        "Kaymaz kadife yüzey",
+        "360° dönen kanca",
+        "İnce, yer kazandıran gövde"
+      ],
+      "price": 949,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/d8ff96e2-cbe0-3a2d-8baf-ad250d1643f8/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/d8ff96e2-cbe0-3a2d-8baf-ad250d1643f8/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1954/prod/QC_PREP/20260907/15/c11f729f-cf23-31dd-a4f4-b6734970697f/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/665d1cc5-f26f-3aaa-a3b4-d2e0de068732/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1954/prod/QC_PREP/20260907/15/876dcc25-8adc-3421-b82a-acea090dafad/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1954/prod/QC_PREP/20260907/15/9d42d245-143e-3fe4-a246-09c422caf798/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/e536221d-1a12-3ac8-b538-0f94e3a30bbc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1955/prod/QC_PREP/20260907/15/0616afca-fcef-30d8-a9b5-86e40fa36e03/1_org_zoom.jpg"
+      ],
+      "in_stock": false,
+      "trendyol_url": "https://www.trendyol.com/bakasana/10-lu-paket-kadife-aski-takim-elbise-askisi-kaymaz-yuzeyli-360-derece-donen-kanca-kaymaz-pembe-p-1196859749",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 17,
+      "is_active": true
+    },
+    {
+      "slug": "20li-kadife-elbise-askisi-siyah",
+      "barcode": "BKSNASK20009",
+      "name": "20 Adet Kadife Takım Elbise Askısı – Kaymaz Yüzey, 360° Dönen Kanca, Siyah",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Kadife kaplı yüzeyi sürtünmeyi artırır; gömlek, bluz ve ipek gibi kaygan kumaşlar bile askıdan kaymaz. 360 derece dönen kancası askıyı dolaba her yönden asmanızı kolaylaştırır.\n\nİnce gövdesi sayesinde aynı dolaba daha fazla giysi sığar. Tüm askılar aynı boyda ve renkte olduğu için dolabınız düzenli ve bütünlüklü görünür.",
+      "features": [
+        "20 adet askı",
+        "Renk: Siyah",
+        "Kaymaz kadife yüzey",
+        "360° dönen kanca",
+        "İnce, yer kazandıran gövde"
+      ],
+      "price": 1249,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1955/prod/QC_PREP/20260907/15/1570253c-2c79-3370-8832-c8d0600bb64a/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1955/prod/QC_PREP/20260907/15/1570253c-2c79-3370-8832-c8d0600bb64a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/23a47e53-acd8-3876-baa9-dc505cdc05e6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1954/prod/QC_PREP/20260907/15/16e93ea1-02de-3014-93ec-6d11a0b6a985/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260907/15/f27c950a-12b7-33a9-8198-73c77f77a2c8/1_org_zoom.jpg"
+      ],
+      "in_stock": false,
+      "trendyol_url": "https://www.trendyol.com/bakasana/20-il-paket-kadife-aski-takim-elbise-askisi-kaymaz-yuzeyli-360-derece-donen-kanca-kaymaz-siyah-p-1196860276",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 18,
+      "is_active": true
+    },
+    {
+      "slug": "50li-kadife-elbise-askisi",
+      "barcode": "BKSNASK20002",
+      "name": "50 Adet Kadife Takım Elbise Askısı – Kaymaz Yüzey, 360° Dönen Kanca",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Kadife kaplı yüzeyi sürtünmeyi artırır; gömlek, bluz ve ipek gibi kaygan kumaşlar bile askıdan kaymaz. 360 derece dönen kancası askıyı dolaba her yönden asmanızı kolaylaştırır.\n\nİnce gövdesi sayesinde aynı dolaba daha fazla giysi sığar. Tüm askılar aynı boyda ve renkte olduğu için dolabınız düzenli ve bütünlüklü görünür.",
+      "features": [
+        "50 adet askı",
+        "Kaymaz kadife yüzey",
+        "360° dönen kanca",
+        "İnce, yer kazandıran gövde"
+      ],
+      "price": 3599,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/ede447fc-0973-3ea9-910c-92286112e0ff/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/ede447fc-0973-3ea9-910c-92286112e0ff/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251112/11/a23f6158-2742-322f-8a14-064e92d66965/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251112/11/c489bf01-d53e-354b-af10-12bd92710368/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251112/11/3f7e12cf-ca25-3cc0-87d6-85695cf5e554/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251112/11/8c5ef764-d067-3253-b50b-19bf10263644/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251112/11/61c28a03-95bf-3909-a98c-2c5227228f85/1_org_zoom.jpg"
+      ],
+      "in_stock": false,
+      "trendyol_url": "https://www.trendyol.com/bakasana/50-li-paket-kadife-aski-takim-elbise-askisi-kaymaz-yuzeyli-360-derece-donen-kanca-kaymaz-p-1048397485",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 19,
+      "is_active": true
+    },
+    {
+      "slug": "100lu-kadife-elbise-askisi",
+      "barcode": "BKSNASK20003",
+      "name": "100 Adet Kadife Takım Elbise Askısı – Kaymaz Yüzey, 360° Dönen Kanca",
+      "brand": "Bakasana",
+      "category_id": "askilar",
+      "description": "Kadife kaplı yüzeyi sürtünmeyi artırır; gömlek, bluz ve ipek gibi kaygan kumaşlar bile askıdan kaymaz. 360 derece dönen kancası askıyı dolaba her yönden asmanızı kolaylaştırır.\n\nİnce gövdesi sayesinde aynı dolaba daha fazla giysi sığar. Tüm askılar aynı boyda ve renkte olduğu için dolabınız düzenli ve bütünlüklü görünür.",
+      "features": [
+        "100 adet askı",
+        "Kaymaz kadife yüzey",
+        "360° dönen kanca",
+        "İnce, yer kazandıran gövde"
+      ],
+      "price": 6199,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/0f8eac2d-8df1-3390-b572-f35b7762eb19/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/0f8eac2d-8df1-3390-b572-f35b7762eb19/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251112/11/9189e205-f574-30a2-9aa8-43004aa481cf/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251112/11/d9f87312-befb-3c3e-b54c-d55562ba3815/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1789/prod/QC_PREP/20251112/11/69e154c7-6ac1-3442-af39-e13a4382f488/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/33444745-d250-353b-be3e-6b1d99a580a0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251112/11/f5c1efe4-a94a-334b-b6c3-4299352083f8/1_org_zoom.jpg"
+      ],
+      "in_stock": false,
+      "trendyol_url": "https://www.trendyol.com/bakasana/100-lu-paket-kadife-aski-takim-elbise-askisi-kaymaz-yuzeyli-360-derece-donen-kanca-kaymaz-p-1048397389",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 20,
+      "is_active": true
+    },
+    {
+      "slug": "el-yapimi-rustik-ahsap-avize-tek-lambali",
+      "barcode": "BKSNAVZ30000",
+      "name": "El Yapımı Rustik Ahşap Avize – Tek Lambalı",
+      "brand": "Bakasana",
+      "category_id": "aydinlatma",
+      "description": "El yapımı, rustik görünümlü ahşap avize. Doğal ahşabın sıcak dokusu mutfak, salon, yemek odası ya da kafe gibi mekanlara samimi bir hava katar. Tek lambalı modeli küçük alanlar, koridor ve masa üstü aydınlatması için uygundur.",
+      "features": [
+        "El yapımı",
+        "Ahşap gövde",
+        "Tek lambalı"
+      ],
+      "price": 399,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251113/14/13449da0-b1d2-3c9d-9810-2fd949bba510/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1788/prod/QC_PREP/20251113/14/13449da0-b1d2-3c9d-9810-2fd949bba510/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251113/14/55e0baa6-7c2d-39e3-bab7-d97a15370dcd/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1790/prod/QC_PREP/20251113/14/f4e10ec6-6292-354a-bcf9-e6d2a2f3a0b5/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/el-yapimi-rustik-ahsap-avize-tek-lambali-p-1049317773",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 21,
+      "is_active": true
+    },
+    {
+      "slug": "el-yapimi-rustik-ahsap-avize-cift-lambali",
+      "barcode": "BKSNAVZ30001",
+      "name": "El Yapımı Rustik Ahşap Avize – Çift Lambalı",
+      "brand": "Bakasana",
+      "category_id": "aydinlatma",
+      "description": "El yapımı, rustik görünümlü ahşap avize. Doğal ahşabın sıcak dokusu mutfak, salon, yemek odası ya da kafe gibi mekanlara samimi bir hava katar.",
+      "features": [
+        "El yapımı",
+        "Ahşap gövde",
+        "Çift lambalı"
+      ],
+      "price": 449,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1793/prod/QC_PREP/20251126/11/e019d6fa-2df4-3c2b-bda7-b94cf7ecda21/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1793/prod/QC_PREP/20251126/11/e019d6fa-2df4-3c2b-bda7-b94cf7ecda21/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251126/11/e7a453d3-353d-36bc-af01-0649a45367d0/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1792/prod/QC_PREP/20251126/11/d922e029-ff48-31be-b220-7ca193d8cfac/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/el-yapimi-rustik-ahsap-avize-cift-lambali-p-1056412453",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 22,
+      "is_active": true
+    },
+    {
+      "slug": "el-yapimi-rustik-ahsap-avize-uc-lambali",
+      "barcode": "BKSNAVZ30002",
+      "name": "El Yapımı Rustik Ahşap Avize – Üç Lambalı",
+      "brand": "Bakasana",
+      "category_id": "aydinlatma",
+      "description": "El yapımı, rustik görünümlü ahşap avize. Doğal ahşabın sıcak dokusu mutfak, salon, yemek odası ya da kafe gibi mekanlara samimi bir hava katar. Üç lambalı modeli yemek masası ve geniş salonlar için daha güçlü bir aydınlatma sağlar.",
+      "features": [
+        "El yapımı",
+        "Ahşap gövde",
+        "Üç lambalı"
+      ],
+      "price": 549,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1793/prod/QC_PREP/20251126/14/8d2fc003-123e-3287-be11-88aa0c930e76/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1793/prod/QC_PREP/20251126/14/8d2fc003-123e-3287-be11-88aa0c930e76/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1791/prod/QC_PREP/20251126/14/dbae0a3a-7c1b-32e1-9a9d-7509bb0cbcdc/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1793/prod/QC_PREP/20251126/14/558b79f6-9ebc-39f4-be9e-5c12ac153f23/1_org_zoom.jpg"
+      ],
+      "in_stock": false,
+      "trendyol_url": "https://www.trendyol.com/bakasana/el-yapimi-rustik-ahsap-avize-uc-lambali-p-1056455798",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 23,
+      "is_active": true
+    },
+    {
+      "slug": "tek-corap-duvar-sepeti-organizer",
+      "barcode": "BKSN60001",
+      "name": "Single Socks Duvar Sepeti – Tek Çorap Askılığı ve Organizer",
+      "brand": "Bakasana",
+      "category_id": "ev-duzeni",
+      "description": "Eşi kaybolan çorapları bir arada tutmak için duvara asılan sepet. Çamaşırdan tek çıkan çorabı buraya koyarsınız, eşi bulununca birleştirirsiniz; çekmeceler karışmaz. Çamaşır odası ve banyo için pratik bir düzenleyici.",
+      "features": [
+        "Duvara asılır",
+        "Tek çoraplar için",
+        "Çamaşır odası ve banyoya uygun"
+      ],
+      "price": 449,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1829/prod/QC_PREP/20260221/13/9e44f1ce-a061-32b8-9dc0-0d5fe02e9379/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1829/prod/QC_PREP/20260221/13/9e44f1ce-a061-32b8-9dc0-0d5fe02e9379/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1829/prod/QC_PREP/20260221/13/bdc558c1-510d-3bb4-acf4-ca8e56bec7b4/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1829/prod/QC_PREP/20260221/13/fd928092-d04c-36b1-93d9-58742254037c/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1827/prod/QC_PREP/20260221/13/b21c3aea-8422-319d-9084-7f63b5508920/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/single-socks-duvar-sepeti-tek-corap-askiligi-organizer-p-1107890930",
+      "hepsiburada_url": "https://www.hepsiburada.com/single-socks-duvar-sepeti-tek-corap-askiligi-organizer-pm-HBC0000EPZOOB?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 24,
+      "is_active": true
+    },
+    {
+      "slug": "masa-alti-ayaklik-ergonomik-ayak-koyma-standi",
+      "barcode": "BAKSNAYK5001",
+      "name": "Masa Altı Ayaklık – Ergonomik Ayak Koyma Standı",
+      "brand": "Bakasana",
+      "category_id": "calisma-alani",
+      "description": "Masa başında uzun süre oturanlar için ayak koyma standı. Ayaklarınızı yükselterek daha rahat ve dengeli bir oturuş sağlar; evde ve ofiste kullanabilirsiniz.",
+      "features": [
+        "Ergonomik konfor desteği",
+        "Masa altına uygun",
+        "Ev ve ofis kullanımı"
+      ],
+      "price": 549,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1813/prod/QC_PREP/20260116/16/b0dac8b9-3059-3db7-83db-7ee7c516cb0a/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1813/prod/QC_PREP/20260116/16/b0dac8b9-3059-3db7-83db-7ee7c516cb0a/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1814/prod/QC_PREP/20260116/16/a54a9262-a1b5-3f93-bae8-97c782f80979/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1813/prod/QC_PREP/20260116/16/a153a243-269c-3d8c-89dd-f239de03906a/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/masa-alti-ayaklik-ayak-koyma-standi-ergonomik-konfor-destegi-p-1086334125",
+      "hepsiburada_url": "https://www.hepsiburada.com/masa-alti-ayaklik-ayak-koyma-standi-ergonomik-konfor-destegi-pm-HBC0000CBI0GI?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": 5,
+      "rating_count": 2,
+      "rating_source": "Hepsiburada",
+      "sort": 25,
+      "is_active": true
+    },
+    {
+      "slug": "dogal-ahsap-sinav-bari-parallette-20-cm",
+      "barcode": "BKSNSNV0002",
+      "name": "Doğal Ahşap Şınav Barı (Parallette) – El Yapımı Pilates, Yoga ve Calisthenics Ekipmanı, 20 cm",
+      "brand": "Bakasana",
+      "category_id": "spor",
+      "description": "Doğal ahşaptan elde yapılan 20 cm yüksekliğinde şınav barı (parallette). Şınav, L-sit ve handstand gibi vücut ağırlığı egzersizlerinde bilekleri daha doğal bir açıda tutar. Ahşap tutma yüzeyi elde sıcak ve kavraması rahattır; pilates, yoga ve calisthenics antrenmanlarında kullanabilirsiniz.",
+      "features": [
+        "Doğal ahşap, el yapımı",
+        "20 cm yükseklik",
+        "Şınav, L-sit, handstand",
+        "Pilates, yoga ve calisthenics"
+      ],
+      "price": 669,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1956/prod/QC_PREP/20260914/14/38da8425-19b2-318c-8174-b5af4e767475/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1956/prod/QC_PREP/20260914/14/38da8425-19b2-318c-8174-b5af4e767475/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1953/prod/QC_PREP/20260910/17/bbc7b620-4da8-372b-a68b-604c95808956/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1954/prod/QC_PREP/20260910/17/e718993f-1805-37b8-9af0-82ff0ddfffe6/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1957/prod/QC_PREP/20260914/14/a563d1ac-3dc1-37b0-bb27-a4597e98e97e/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/sinav-bari-dogal-ahsap-parallette-el-yapimi-pilates-yoga-ve-calisthenics-ekipmani-20-cm-p-1199500925",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 26,
+      "is_active": true
+    },
+    {
+      "slug": "ahsap-telefon-standli-anahtarlik",
+      "barcode": "BKSNANHTR0001",
+      "name": "Ahşap Telefon Standlı Anahtarlık",
+      "brand": "Bakasana",
+      "category_id": "giyim-aksesuar",
+      "description": "Anahtarlığınız aynı zamanda telefon standı olarak kullanılır. Ahşap gövdesi cepte yer kaplamaz; yolculukta, kafede ya da masada telefonu dik tutup video izlemenizi kolaylaştırır.",
+      "features": [
+        "Ahşap gövde",
+        "Anahtarlık ve telefon standı bir arada",
+        "Hafif, cepte taşınır"
+      ],
+      "price": 92,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1850/prod/QC_PREP/20260331/15/b6d71f2f-6026-3aab-a05d-9ce99a02e543/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1850/prod/QC_PREP/20260331/15/b6d71f2f-6026-3aab-a05d-9ce99a02e543/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1848/prod/QC_PREP/20260331/15/46f1f7b3-11e2-335d-9221-8b66fa4a0513/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1850/prod/QC_PREP/20260331/15/e1873ed2-c935-3f09-b043-20b2a030f7d1/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1850/prod/QC_PREP/20260331/15/afe36429-74c1-3278-8e71-430eb263098a/1_org_zoom.jpg"
+      ],
+      "in_stock": true,
+      "trendyol_url": "https://www.trendyol.com/bakasana/ahsap-telefon-standli-anahtarlik-her-yerde-konforlu-izleme-p-1126326738",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 27,
+      "is_active": true
+    },
+    {
+      "slug": "3lu-unisex-beyaz-kolej-corabi",
+      "barcode": "BKSNÇRPKOL0001",
+      "name": "3’lü Paket Unisex Beyaz Kolej Çorabı – Retro Çizgili Pamuklu Tenis Çorabı",
+      "brand": "Bakasana",
+      "category_id": "giyim-aksesuar",
+      "description": "Beyaz zemin üzerine retro çizgili, unisex kolej çorabı. Pamuklu yapısıyla gün boyu rahattır; tenis, spor ve günlük kombinlerde kullanılır.",
+      "features": [
+        "3 çift",
+        "Unisex",
+        "Pamuklu",
+        "Retro çizgili"
+      ],
+      "price": 249,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1830/prod/QC_PREP/20260227/11/a87e7db3-f3d1-3c9f-8288-636402873bf5/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1830/prod/QC_PREP/20260227/11/a87e7db3-f3d1-3c9f-8288-636402873bf5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1832/prod/QC_PREP/20260227/11/4d4d6a25-26f7-3541-b2d8-5cb2472d2555/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1830/prod/QC_PREP/20260227/11/05c728ba-91e7-385e-a491-5982099c6aad/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1830/prod/QC_PREP/20260227/11/6f31773e-48bf-3a1d-b7a8-cd12317036e5/1_org_zoom.jpg"
+      ],
+      "in_stock": false,
+      "trendyol_url": "https://www.trendyol.com/bakasana/3-lu-paket-unisex-beyaz-kolej-corabi-retro-cizgili-tenis-corabi-pamuklu-spor-corap-p-1111120474",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 28,
+      "is_active": true
+    },
+    {
+      "slug": "6li-unisex-beyaz-kolej-corabi",
+      "barcode": "BKSNÇRPKOL0002",
+      "name": "6’lı Paket Unisex Beyaz Kolej Çorabı – Retro Çizgili Pamuklu Tenis Çorabı",
+      "brand": "Bakasana",
+      "category_id": "giyim-aksesuar",
+      "description": "Beyaz zemin üzerine retro çizgili, unisex kolej çorabı. Pamuklu yapısıyla gün boyu rahattır; tenis, spor ve günlük kombinlerde kullanılır.",
+      "features": [
+        "6 çift",
+        "Unisex",
+        "Pamuklu",
+        "Retro çizgili"
+      ],
+      "price": 299,
+      "list_price": null,
+      "image_url": "https://cdn.dsmcdn.com/ty1830/prod/QC_PREP/20260227/11/597ef5c9-e443-3d5a-979d-263fe416e948/1_org_zoom.jpg",
+      "images": [
+        "https://cdn.dsmcdn.com/ty1830/prod/QC_PREP/20260227/11/597ef5c9-e443-3d5a-979d-263fe416e948/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1832/prod/QC_PREP/20260227/11/57d1e183-1254-3b54-a884-ce61e9afb0c5/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1832/prod/QC_PREP/20260227/11/f5a8d1ab-3545-3b7a-a742-29ec82ea553b/1_org_zoom.jpg",
+        "https://cdn.dsmcdn.com/ty1832/prod/QC_PREP/20260227/11/06fbde2e-50f4-3304-8c36-0084a9618637/1_org_zoom.jpg"
+      ],
+      "in_stock": false,
+      "trendyol_url": "https://www.trendyol.com/bakasana/6-li-paket-unisex-beyaz-kolej-corabi-retro-cizgili-tenis-corabi-pamuklu-spor-corap-p-1111126276",
+      "hepsiburada_url": null,
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 29,
+      "is_active": true
+    },
+    {
+      "slug": "colezium-tornado-yuvarlak-kil-testere-ucu-no5-12li",
+      "barcode": null,
+      "name": "Colezium Tornado Yuvarlak Kıl Testere Ucu No 5 (12 Adet)",
+      "brand": "Colezium",
+      "category_id": "hobi",
+      "description": "Kıl testere için yuvarlak (tornado) diş yapılı uç, No 5, 12’li paket. Her yöne kesebildiği için ahşapta kavisli ve detaylı kesimlerde kullanılır.",
+      "features": [
+        "12 adet",
+        "No 5",
+        "Yuvarlak (tornado) diş"
+      ],
+      "price": 449,
+      "list_price": null,
+      "image_url": null,
+      "images": [],
+      "in_stock": true,
+      "trendyol_url": null,
+      "hepsiburada_url": "https://www.hepsiburada.com/tornado-yuvarlak-ahsap-kil-testere-ucu-no-5-12-adet-pm-HBC00009QTKZL?magaza=Bakasana",
+      "amazon_url": null,
+      "rating": null,
+      "rating_count": null,
+      "rating_source": null,
+      "sort": 30,
+      "is_active": true
+    }
+  ]
+}
